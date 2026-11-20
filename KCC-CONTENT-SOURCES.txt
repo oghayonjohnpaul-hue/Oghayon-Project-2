@@ -1,0 +1,18 @@
+KCC LANDING PAGE — CONTENT NOTES
+Adapted from the uploaded Bootstrap Mentor template.
+Original navigation href targets preserved exactly: index.html, about.html, courses.html, trainers.html, events.html, pricing.html, contact.html. The visible Trainers label is changed to Administrator; href="trainers.html" remains unchanged.
+
+Sources:
+- Official KCC website https://kcc.edu.ph/ (founded 1927; motto; mission; four pillars; contact details; CMAT Pinning 2025; Criminology Reception Rites).
+- Leadership snapshot from February 17, 2025 institutional report:
+  https://www.jblfmu.edu.ph/academics/our-campuses/jblcf-bacolod-campus/33-home/blog/jblcf-bacolod/607-jblcf-bacolod-and-kcc-conducts-benchmarking-activity
+  Names/titles are date-stamped and may no longer be current.
+- Program list compiled from public program/course directories:
+  https://www.uni2study.com/universities/philippines/kabankalan-catholic-college
+  https://www.studocu.com/ph/institution/kabankalan-catholic-college/39430
+  Verify current offerings with the Registrar.
+- DepEd SHS strands listing: https://www.deped.gov.ph/k-to-12/senior-high-school/list-of-senior-high-schools/
+- KCC Week 2022 archival reference: https://cdnc.heyzine.com/files/uploaded/12bd04ad1f7e33730ec7feb06307939d53a56a4a.pdf
+- Campus entrance photo reference: https://johnpaologalimba.wordpress.com/2017/10/01/kcc-a-portal-to-a-new-dimension/
+  Replace with recent school-authorized images when available.
+- Current official per-program tuition was not verified. The Pricing page directs users to request the current assessment rather than publishing invented prices.
